@@ -1,0 +1,5 @@
+C:\Users\odair\OneDrive\Área de Trabalho\academia2021\e-AgendaFormss\eAgenda.Database\bin\Release\eAgenda.Database.dacpac
+C:\Users\odair\OneDrive\Área de Trabalho\academia2021\e-AgendaFormss\eAgenda.Database\bin\Release\eAgenda.Database.dll
+C:\Users\odair\OneDrive\Área de Trabalho\academia2021\e-AgendaFormss\eAgenda.Database\bin\Release\eAgenda.Database.pdb
+C:\Users\odair\OneDrive\Área de Trabalho\academia2021\e-AgendaFormss\eAgenda.Database\obj\Release\eAgenda.Database.dll
+C:\Users\odair\OneDrive\Área de Trabalho\academia2021\e-AgendaFormss\eAgenda.Database\obj\Release\eAgenda.Database.pdb

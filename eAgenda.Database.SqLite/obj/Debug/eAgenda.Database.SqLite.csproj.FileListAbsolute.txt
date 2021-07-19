@@ -1,0 +1,6 @@
+C:\Users\odair\OneDrive\Área de Trabalho\academia2021\e-AgendaFormss\eAgenda.Database.SqLite\bin\Debug\eAgenda.Database.SqLite.dll
+C:\Users\odair\OneDrive\Área de Trabalho\academia2021\e-AgendaFormss\eAgenda.Database.SqLite\bin\Debug\eAgenda.Database.SqLite.pdb
+C:\Users\odair\OneDrive\Área de Trabalho\academia2021\e-AgendaFormss\eAgenda.Database.SqLite\obj\Debug\eAgenda.Database.SqLite.csproj.AssemblyReference.cache
+C:\Users\odair\OneDrive\Área de Trabalho\academia2021\e-AgendaFormss\eAgenda.Database.SqLite\obj\Debug\eAgenda.Database.SqLite.csproj.CoreCompileInputs.cache
+C:\Users\odair\OneDrive\Área de Trabalho\academia2021\e-AgendaFormss\eAgenda.Database.SqLite\obj\Debug\eAgenda.Database.SqLite.dll
+C:\Users\odair\OneDrive\Área de Trabalho\academia2021\e-AgendaFormss\eAgenda.Database.SqLite\obj\Debug\eAgenda.Database.SqLite.pdb
